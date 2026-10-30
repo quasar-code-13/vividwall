@@ -1,8 +1,8 @@
 # Vividwall — Privacy Policy
 
-*Effective date: August 25, 2026*
+*Effective date: October 30, 2026*
 
-**The short version: Vividwall collects no data. None.** The app runs entirely on your Mac, makes no network connections, and has no analytics, tracking, accounts, or ads.
+**The short version: Vividwall collects no data. None.** The app runs entirely on your Mac and has no analytics, tracking, accounts, or ads. Its only network communication is with Apple's App Store, to process the optional Vividwall Pro purchase.
 
 ## What the app stores
 
@@ -14,13 +14,17 @@ None of this ever leaves your device. Deleting the app deletes all of it.
 ## What the app does not do
 
 - No data collection of any kind — personal or otherwise
-- No network requests, telemetry, or analytics
+- No telemetry or analytics
 - No third-party SDKs, trackers, or advertising
 - No account or sign-in
 
+## Purchases
+
+The optional Vividwall Pro upgrade is a one-time In-App Purchase processed entirely by Apple through the App Store. Vividwall never sees or stores your payment details; Apple's own privacy policy governs the transaction. The app checks your purchase status locally through Apple's StoreKit framework.
+
 ## Built-in content
 
-The wallpapers bundled with Vividwall are derived from public-domain footage published by NASA. They are included in the app itself — nothing is downloaded.
+The wallpapers bundled with Vividwall are derived from public-domain footage published by NASA, our own original animations, and animations licensed from their creators. They are included in the app itself — nothing is downloaded.
 
 ## Changes to this policy
 
