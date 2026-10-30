@@ -21,6 +21,12 @@ Vividwall is built to be polite: Battery Guard pauses playback when your battery
 **I deleted a built-in wallpaper. Can I get it back?**
 Yes — open Settings and click *Restore Built-in Wallpapers*.
 
+**What is Vividwall Pro?**
+Vividwall is free, including all built-in wallpapers, every power setting, and one imported video of your own. Vividwall Pro — a single one-time purchase, no subscription — unlocks unlimited imports, per-display wallpapers, and playback speed control.
+
+**I bought Vividwall back when it was a paid app. Do I get Pro?**
+Yes, automatically and for free — thank you for the early support. The app reads your original App Store purchase and unlocks Pro on its own. If you're setting up a brand-new Mac and Pro shows locked, make sure you're online and signed into the App Store, then open Settings → *Restore Purchases* (or just relaunch the app once).
+
 **Where are my videos stored?**
 Imported videos are copied into Vividwall's own library inside the app's sandbox container. Your original files are never modified or moved.
 
@@ -35,4 +41,4 @@ Questions, bug reports, or feature ideas? Email **[quasarcode13@gmail.com](mailt
 
 ---
 
-© 2026 RainLab · [Privacy Policy](privacy) · Built-in wallpapers courtesy of NASA
+© 2026 RainLab · [Privacy Policy](privacy) · Includes footage courtesy of NASA
